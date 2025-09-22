@@ -26,5 +26,5 @@ The calculator runs in a loop, allowing users to perform multiple calculations u
 
 
   
-- To exit, select option 5 when prompted.
+- To exit, select option 5 
 
